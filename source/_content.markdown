@@ -48,6 +48,7 @@ order please).
 * [Ryatta Group](http://www.ryatta.com/)
 * [The Working Group](http://www.theworkinggroup.ca/)
 * [Unspace](https://unspace.ca/)
+* [Rich DX Studio](http://richdx.com)
 
 ### Other Companies Using Rails
 
